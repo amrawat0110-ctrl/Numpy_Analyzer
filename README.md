@@ -138,7 +138,7 @@ flowchart TD
 ### Setup Steps
 1. Clone or download the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/numpy-analyzer.git
+   git clone https://github.com/amrawat0110-ctrl/numpy-analyzer.git
    cd numpy-analyzer
    ```
 
