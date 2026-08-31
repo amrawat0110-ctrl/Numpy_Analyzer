@@ -179,6 +179,19 @@ flowchart TD
 
 ---
 
+## 👨‍💻 Author
+
+**Armin Khareghat**  
+B.Sc. Computer Science  
+🤖 AI / ML & Data Science  
+
+---
+
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+⭐ If you found this project useful, consider giving the repository a star!
+
